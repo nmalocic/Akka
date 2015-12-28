@@ -1,0 +1,10 @@
+D:\Programiranje\Akka\bootcamp\Unity 1\bin\Debug\WinTail.exe.config
+D:\Programiranje\Akka\bootcamp\Unity 1\bin\Debug\WinTail.exe
+D:\Programiranje\Akka\bootcamp\Unity 1\bin\Debug\WinTail.pdb
+D:\Programiranje\Akka\bootcamp\Unity 1\bin\Debug\Akka.dll
+D:\Programiranje\Akka\bootcamp\Unity 1\bin\Debug\Newtonsoft.Json.dll
+D:\Programiranje\Akka\bootcamp\Unity 1\bin\Debug\Akka.xml
+D:\Programiranje\Akka\bootcamp\Unity 1\bin\Debug\Newtonsoft.Json.xml
+D:\Programiranje\Akka\bootcamp\Unity 1\obj\Debug\WinTail.csprojResolveAssemblyReference.cache
+D:\Programiranje\Akka\bootcamp\Unity 1\obj\Debug\WinTail.exe
+D:\Programiranje\Akka\bootcamp\Unity 1\obj\Debug\WinTail.pdb
