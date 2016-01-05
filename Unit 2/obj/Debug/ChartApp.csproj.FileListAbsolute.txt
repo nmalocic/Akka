@@ -1,0 +1,13 @@
+D:\Programiranje\Akka\bootcamp\Unit 2\bin\Debug\ChartApp.exe.config
+D:\Programiranje\Akka\bootcamp\Unit 2\bin\Debug\ChartApp.exe
+D:\Programiranje\Akka\bootcamp\Unit 2\bin\Debug\ChartApp.pdb
+D:\Programiranje\Akka\bootcamp\Unit 2\bin\Debug\Akka.dll
+D:\Programiranje\Akka\bootcamp\Unit 2\bin\Debug\Newtonsoft.Json.dll
+D:\Programiranje\Akka\bootcamp\Unit 2\bin\Debug\Akka.xml
+D:\Programiranje\Akka\bootcamp\Unit 2\bin\Debug\Newtonsoft.Json.xml
+D:\Programiranje\Akka\bootcamp\Unit 2\obj\Debug\ChartApp.csprojResolveAssemblyReference.cache
+D:\Programiranje\Akka\bootcamp\Unit 2\obj\Debug\ChartApp.Main.resources
+D:\Programiranje\Akka\bootcamp\Unit 2\obj\Debug\ChartApp.Properties.Resources.resources
+D:\Programiranje\Akka\bootcamp\Unit 2\obj\Debug\ChartApp.csproj.GenerateResource.Cache
+D:\Programiranje\Akka\bootcamp\Unit 2\obj\Debug\ChartApp.exe
+D:\Programiranje\Akka\bootcamp\Unit 2\obj\Debug\ChartApp.pdb
