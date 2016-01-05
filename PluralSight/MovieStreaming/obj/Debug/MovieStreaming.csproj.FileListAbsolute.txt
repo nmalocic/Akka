@@ -1,0 +1,10 @@
+C:\Work\Vega\Practice\ISA\MovieStreaming\bin\Debug\MovieStreaming.exe.config
+C:\Work\Vega\Practice\ISA\MovieStreaming\bin\Debug\MovieStreaming.exe
+C:\Work\Vega\Practice\ISA\MovieStreaming\bin\Debug\MovieStreaming.pdb
+C:\Work\Vega\Practice\ISA\MovieStreaming\bin\Debug\Akka.dll
+C:\Work\Vega\Practice\ISA\MovieStreaming\bin\Debug\Newtonsoft.Json.dll
+C:\Work\Vega\Practice\ISA\MovieStreaming\bin\Debug\Akka.xml
+C:\Work\Vega\Practice\ISA\MovieStreaming\bin\Debug\Newtonsoft.Json.xml
+C:\Work\Vega\Practice\ISA\MovieStreaming\obj\Debug\MovieStreaming.csprojResolveAssemblyReference.cache
+C:\Work\Vega\Practice\ISA\MovieStreaming\obj\Debug\MovieStreaming.exe
+C:\Work\Vega\Practice\ISA\MovieStreaming\obj\Debug\MovieStreaming.pdb
